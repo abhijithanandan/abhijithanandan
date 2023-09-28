@@ -109,10 +109,27 @@
 
 <!-- Data stack using html table -->
 
-<div align="center"><table>
+<div><table>
 <!-- Align text to center for table -->
 <p align="center">
 <tbody>
+  <tr>
+    <td><strong>Machine Learning and Deep Learning:</strong></td>
+    <td><strong> Data Storage:</strong></td>
+  </tr>
+  <tr>
+    <td><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+    <img alt="Statsmodels" src="https://img.shields.io/badge/Statsmodels-1F3E5A?style=for-the-badge&logo=statsmodels&logoColor=white" />
+    <img alt="Apache Mahout" src="https://img.shields.io/badge/Apache_Mahout-EC552F?style=for-the-badge&logo=apachemahout&logoColor=white" />
+    <img alt="Spark MLlib" src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=whit" /></td>
+    <td><img alt="HDFS" src="https://img.shields.io/badge/HDFS-0A0C0D?style=for-the-badge&logo=apachehadoop&logoColor=%2366CCFF" />
+    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-b13c12?style=for-the-badge&logo=apachecassandra&logoColor=%231287B1" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" ></td>
+  </tr>
   <tr>
     <td><strong>Data Cleaning and Manipulation:</strong></td>
     <td><strong>Big Data Cleaning and Preparation:</strong></td>
@@ -136,23 +153,6 @@
     <td><img alt="Apache Hive" src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
     <img alt="Apache Pig" src="https://img.shields.io/badge/Apache_Pig-FC4B6C?style=for-the-badge&logo=apachepig&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><strong>Machine Learning and Deep Learning:</strong></td>
-    <td><strong> Data Storage:</strong></td>
-  </tr>
-  <tr>
-    <td><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img alt="Statsmodels" src="https://img.shields.io/badge/Statsmodels-1F3E5A?style=for-the-badge&logo=statsmodels&logoColor=white" />
-    <img alt="Apache Mahout" src="https://img.shields.io/badge/Apache_Mahout-EC552F?style=for-the-badge&logo=apachemahout&logoColor=white" />
-    <img alt="Spark MLlib" src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=whit" /></td>
-    <td><img alt="HDFS" src="https://img.shields.io/badge/HDFS-0A0C0D?style=for-the-badge&logo=apachehadoop&logoColor=%2366CCFF" />
-    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-b13c12?style=for-the-badge&logo=apachecassandra&logoColor=%231287B1" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" ></td>
   </tr>
   <tr>
     <td><strong> Data Processing:</strong></td>
