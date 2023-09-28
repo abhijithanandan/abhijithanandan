@@ -24,49 +24,221 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Familiar Tech Stack Tools:</b>
 <br>
 
 <p align="center">
 	
-- **Languages**:
+- **Programming/Scripting Languages**:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,html,css,js,bash,dart" />
-  </a>
-</div>
-
-<br>   
-    
-- **Developer Tools**:
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,git,linux,idea,androidstudio" />
-  </a>
-</div>
-
-<br>   
-
-- **DevOps**:
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,aws,gcp,jenkins" />
-</div>
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="50em"/>
+    	<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,php,js,bash,dart,kotlin" />
 </div>
 
 <br>
 
-- **Dev Tools**:
+- **Build Tools and Build System Generators**:
 
-    ![Alacritty](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=make,cmake,gradle"/>
+    	<img src="https://skillicons.dev/icons?i=webpack"/>	
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/>
+</div>
+
+<br>
+    
+- **Developer Tools**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=vscode,neovim,git,linux,idea,androidstudio"/>
+</div>
+
+<br>
+
+- **Frontend Frameworks**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=html,css,sass,materialui,tailwind,angular,react,redux,threejs,nextjs"/>
+</div>
+
+<br>
+
+- **Backend Frameworks**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=express,django,flask,nodejs,laravel,fastapi"/>
+</div>
+
+<br>
+
+
+- **DevOps**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,nginx"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50em"/>
+	<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="50em" />
+</div>
+
+<br>
+
+
+- **Databases**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis"/>
+</div>
+
+<br>
+
+
+- **Mobile Frameworks and Gaming**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=flutter,unity,blender"/>
+</div>
+
+<br>
+
+
+- **ORM**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=sequelize"/>
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=50em />
+</div>
+
+<br>
+
+
+- **API Testing**:
+
+<div align="center">
+    	<img src="https://skillicons.dev/icons?i=postman"/>
+</div>
+
+<br>
+
+- **Project Management**:
+
+<div align="center">
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width=50em/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width=50em/>          
+</div>
+
+<br>
+
+</p>
+
+<br>
+<br>
+
+-----
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Data Science Stack:</b>
+<br>
+
+<div class="tg-wrap"><table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-bolj" colspan="2"><strong>Data Cleaning and Manipulation:</strong></td>
+    <td class="tg-bolj" colspan="2"><strong>Big Data Cleaning and Preparation:</strong></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">x</td>
+    <td class="tg-c3ow" colspan="2">y</td>
+  </tr>
+  <tr>
+    <td class="tg-bolj" colspan="2">Data Visualization:</td>
+    <td class="tg-bolj" colspan="2">Data Analysis:</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">x</td>
+    <td class="tg-c3ow" colspan="2">y</td>
+  </tr>
+</tbody>
+</table></div>
+
+
+<p align="center">
+
+- **Data Storage:**
+
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/HDFS-0A0C0D?style=for-the-badge&logo=apachehadoop&logoColor=%2366CCFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cassandra-b13c12?style=for-the-badge&logo=apachecassandra&logoColor=%231287B1">
 
 
 </p>
+
+- **Data Cleaning and Manipulation:**
+
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  
+- **Big Data Cleaning and Preparation:**
+
+  ![Apache Nifi](https://img.shields.io/badge/Apache_Nifi-0A7B83?style=for-the-badge&logo=apachenifi&logoColor=white)
+  ![Trifacta](https://img.shields.io/badge/Trifacta-D53939?style=for-the-badge&logo=trifacta&logoColor=white)
+
+- **Data Visualization:**
+
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logo=seaborn&logoColor=white)
+  ![GGplot2](https://img.shields.io/badge/GGplot2-FF4785?style=for-the-badge&logo=ggplot2&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+  
+- **Data Analysis:**
+
+  ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+  ![Apache Pig](https://img.shields.io/badge/Apache_Pig-FC4B6C?style=for-the-badge&logo=apachepig&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **Machine Learning and Deep Learning:**
+
+  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Statsmodels](https://img.shields.io/badge/Statsmodels-1F3E5A?style=for-the-badge&logo=statsmodels&logoColor=white)
+  ![Apache Mahout](https://img.shields.io/badge/Apache_Mahout-EC552F?style=for-the-badge&logo=apachemahout&logoColor=white)
+  ![Spark MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+- **Data Storage:**
+
+  ![HDFS](https://img.shields.io/badge/HDFS-0A0C0D?style=for-the-badge&logo=apachehadoop&logoColor=%2366CCFF)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-b13c12?style=for-the-badge&logo=apachecassandra&logoColor=%231287B1)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- **Data Processing:**
+
+  ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-0A0C0D?style=for-the-badge&logo=apachehadoop&logoColor=%2366CCFF)
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+  ![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+  ![Apache Storm](https://img.shields.io/badge/Apache_Storm-5C2D91?style=for-the-badge&logo=apachestorm&logoColor=white)
+
+- **Data Ingestion:**
+
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+  ![Flume](https://img.shields.io/badge/Flume-0E76A8?style=for-the-badge&logo=flume&logoColor=white)
+
+- **Data Warehousing:**
+
+  ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+- **Workflow Orchestration:**
+
+  ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+- **Security:**
+
+  ![Apache Ranger](https://img.shields.io/badge/Apache_Ranger-2D6B22?style=for-the-badge&logo=apacheranger&logoColor=white)
+
 
 <br>
 <br>
