@@ -42,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=bash,dart,kotlin" /></td>
     	<td><img src="https://skillicons.dev/icons?i=make,cmake,gradle"/>
     	<img src="https://skillicons.dev/icons?i=webpack"/>	
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/> -->
   </td>
   </tr>
   <tr>
@@ -85,10 +84,13 @@
     	<td ><img src="https://skillicons.dev/icons?i=postman"/></td>
   </tr>
   <tr>
+    <td><strong>Package Managers</strong></td>
     <td><strong>Project Management:</strong></td>
   </tr>
   <tr>
-    	<td text-align="center">
+	        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width=50em/></td>
+    	`     <td text-align="center">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width=50em/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width=50em/>
             </td>
