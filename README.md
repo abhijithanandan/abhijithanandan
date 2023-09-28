@@ -42,7 +42,8 @@
     <img src="https://skillicons.dev/icons?i=bash,dart,kotlin" /></td>
     	<td><img src="https://skillicons.dev/icons?i=make,cmake,gradle"/>
     	<img src="https://skillicons.dev/icons?i=webpack"/>	
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/></td>
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/> -->
+  </td>
   </tr>
   <tr>
     <td><strong>Developer Tools:</strong></td>
