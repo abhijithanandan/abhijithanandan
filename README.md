@@ -30,8 +30,7 @@
 <br>
 
 <!-- Tech stack using html table -->
-
-<div><table>
+<div><table border="0">
 <p align="center">
 <tbody>
   <tr>
@@ -39,7 +38,8 @@
     <td><strong>Build Tools and Build System Generators:</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,py,php,js,bash,dart,kotlin" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,rust,py,php,js" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,dart,kotlin" /></td>
     	<td><img src="https://skillicons.dev/icons?i=make,cmake,gradle"/>
     	<img src="https://skillicons.dev/icons?i=webpack"/>	
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50em"/></td>
@@ -50,7 +50,8 @@
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=vscode,neovim,git,linux,idea,androidstudio"/></td> 	
-    <td><img src="https://skillicons.dev/icons?i=html,css,sass,materialui,tailwind,angular,react,redux,threejs,nextjs"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,materialui,tailwind,angular"/><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,threejs,nextjs"/></td>
   </tr>
   <tr>
     <td><strong>Backend Frameworks:</strong></td>
@@ -58,7 +59,7 @@
   </tr>
   <tr>
     	<td><img src="https://skillicons.dev/icons?i=express,django,flask,nodejs,laravel,fastapi"/></td>
-    	<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,nginx"/>
+    	<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,nginx"/><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50em"/>
 	<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="50em" /></td>
@@ -80,20 +81,20 @@
         <img src="https://skillicons.dev/icons?i=sequelize"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=50em />
       </td>
-    	<td><img src="https://skillicons.dev/icons?i=postman"/></td>
+    	<td ><img src="https://skillicons.dev/icons?i=postman"/></td>
   </tr>
   <tr>
     <td><strong>Project Management:</strong></td>
-    <td><strong> </strong></td>
   </tr>
   <tr>
-    	<td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width=50em/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width=50em/>
-      </td>
-        <td></td>
+    	<td text-align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width=50em/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width=50em/>
+            </td>
   </tr>
+</tbody>
 </p>
+</table></div>
 
 <br>
 <br>
@@ -177,7 +178,6 @@
   </tr>
   <tr>
     <td><strong>Security:</strong></td>
-    <td></td>
   </tr>
   <tr>
     <td><img alt="Apache Ranger" src="https://img.shields.io/badge/Apache_Ranger-2D6B22?style=for-the-badge&logo=apacheranger&logoColor=white" /></td>
