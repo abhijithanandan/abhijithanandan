@@ -30,7 +30,7 @@
 <br>
 
 <!-- Tech stack using html table -->
-<div><table border="0">
+<div align="center"><table border="0">
 <p align="center">
 <tbody>
   <tr>
@@ -109,7 +109,7 @@
 
 <!-- Data stack using html table -->
 
-<div><table>
+<div align="center"><table>
 <!-- Align text to center for table -->
 <p align="center">
 <tbody>
