@@ -475,9 +475,37 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>A brief bio (tl;dr):</b>
 <br>
+
+### 🌟 Professional Snapshot:
+
+I am Abhijith Anandakrishnan, a Ph.D. holder and accomplished Data Scientist with a rich background in computational research. My career is characterized by my self-driven and results-oriented nature, built on a solid foundation of adaptability, collaboration, and a ceaseless quest for learning.
+
+### 🌟 Soft Skills:
+
+- **Entrepreneurial Spirit:** A go-getter attitude underscores my work, driving meaningful results in fast-paced, startup-like environments.
+- **Effective Communication:** Exceptional ability to convey intricate concepts clearly, ensuring smooth team collaboration and knowledge exchange.
+- **Ethical and Responsible:** Transparent and accountable in every project, ensuring all decisions prioritize merit and innovation.
+
+### 🌟 Technical Proficiency:
+
+- **Advanced Machine Learning:** Proficient in developing and deploying algorithms with expertise in CNN, RCNN, SSD, and YOLO models.
+- **In-depth Data Science Knowledge:** Adept in Image Processing, Deep Learning, Big Data, Predictive Modeling, Time Series Forecasting, and NLP.
+- **Comprehensive Analytical Skills:** Experienced in Hypothesis Testing, Object Detection/Tracking, and Semantic Segmentation, contributing to the development and implementation of robust data solutions.
+
+### 🌟 Area of Interest:
+
+- **Cutting-Edge Technologies:** Excels in employing technologies like BERT, GPT, and Attention Mechanisms for innovative problem solving.
+- **Strategic Model Development:** Focused on Model and Strategy Development, Validation, and Implementation, ensuring alignment with organizational objectives.
+- **Real-World Applications:** Passionate about aligning advanced research with real-world challenges for impactful, sustainable solutions.
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<be>
 <div align='left'>
+
+I am excited to explore opportunities where I can contribute my comprehensive technical skills and robust professional attributes for mutual growth and success. Let’s navigate the world of data science together and create transformative solutions that matter.
 
 <ul>
 
