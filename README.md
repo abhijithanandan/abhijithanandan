@@ -479,8 +479,6 @@
 <be>
 <div align='left'>
 
-I am excited to explore opportunities where I can contribute my comprehensive technical skills and robust professional attributes for mutual growth and success. Let’s navigate the world of data science together and create transformative solutions that matter.
-
 <ul>
 
 <li>
