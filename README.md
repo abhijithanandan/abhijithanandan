@@ -10,9 +10,13 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://i.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp" width = 250px></picture>
+
+<!-- <picture> <img align="right" src="https://i.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp" width = 250px></picture> -->
+<!-- <picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width = 250px></picture> -->
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width = 250px></picture>
+
 
 <br>
 
